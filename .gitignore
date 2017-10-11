@@ -1,5 +1,6 @@
 *.iml
 /.idea
+/target
 Будет удалено .gitignore
 Будет удалено .idea/
 Будет удалено pom.xml
